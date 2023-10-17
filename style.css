@@ -1,0 +1,28 @@
+.title {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 3rem;
+}
+
+h2 {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+#hero {
+  background-color: #A1CCD1 ;
+}
+
+#feature {
+  background-color: #F4F2DE;
+}
+
+#footer {
+  background-color: #7C9D96;
+}
+
+.bg-photo {
+  width: 400vb;
+  background-image: url("./images/colorful.png");
+}
